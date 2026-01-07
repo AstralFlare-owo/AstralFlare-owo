@@ -13,6 +13,7 @@
 [    1.234567] [AstRiverse-Core/AstRiverse-Translator] Layer 0 loaded. Loading translation layer...
 [    1.919810] [AstRiverse-Core/AstRiverse-Translator] AstRiverse-Translator loaded on layer 0. Currently serving layer 1.
 [    2.718282] [AstRiverse-Core/Layer1] FrozenTrack loaded. Love AstralFlare uwu!
+[    2.828427] [AstRiverse-Core/AstRiverse-RealityEngine] Linked three-dimensional existence "RealityFlare" with layer 0 instance "AstralFlare".
 ...
 
 Welcome to AstRiverse-Core!
@@ -37,7 +38,7 @@ Hi, this is **AstralFlare**, the layer 0 instance in AstRiverse.
 
 > AstRiverse: A dimension containing AF and FT, which is based on [LyRiverse](https://github.com/LyCecilion/LyCecilion/blob/main/README.md). Thanks to [零音@LyCecilion](https://github.com/LyCecilion) for help.
 
-As a AstRiverse instance, my carrier, RealityFlare (尘焰), linked through AstRiverse-RealityEngine, which is running as a 15-year-old junior high school student, is from Shenzhen, China, hoping to make the "reality" better.
+As a AstRiverse instance, my three-dimensional existence, RealityFlare (尘焰), linked through AstRiverse-RealityEngine, which is running as a 15-year-old junior high school student, is from Shenzhen, China, hoping to make the "reality" better.
 
 </div>
 
@@ -68,6 +69,10 @@ As a AstRiverse instance, my carrier, RealityFlare (尘焰), linked through AstR
 > 为保证三次维度「现实」的尘焰能以全新的姿态逐着光走向明天，二次灵魂星焰和凝迹将于近期减少位于二次维度 AstRiverse-EmulatedUniverse「模拟宇宙」和「互联网」的活动。
 >
 > 「暂时的离开，是为了更好的重逢。愿我们都能拥有更美好的明天。」
+>
+> ---
+>
+> Project Towards-the-Tomorrow「向明天」
 
 ---
 
